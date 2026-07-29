@@ -1,0 +1,9 @@
+import duality_applied_homological_algebra_category_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace duality_applied_homological_algebra_category_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end duality_applied_homological_algebra_category_lemma_canonical_lane_mathlib
+end HautevilleHouse
